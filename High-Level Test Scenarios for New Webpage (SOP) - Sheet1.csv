@@ -1,0 +1,37 @@
+High-Level Test Scenarios for New Webpage
+Verify page URL is same as shared by dev team.
+Verify page URL is clear and easily accessible for everyone
+Verify user is able to scroll the whole page
+"Verify that whole page is loading properly, specially for large images or heavy content"
+Verify page layout is visually appealing and consistent
+Verify page loading speed is good
+"Test page's performance under different network conditions (slow, unstable)."
+Verify Page color is as per the design or as per the theme
+Verify that all fonts on page are as per the decided format
+"Verify that the page is readable and accessible, adhering to accessibility standards"
+Verify Page sequence is same as per the design
+Verify Page is compatible for all the devices & Browsers (cross browser testing)
+"Verify the page's responsiveness on various devices (desktops, tablets, smartphones)"
+"Verify all text content is accurate, up-to-date, and free of grammatical errors."
+"Verify all the images are clearly visible, no blue image should be uploaded"
+Verify all images Alt (Alternate) Attribute for Images are updated
+Verify if all applicable videos are uploaded and are playing & mapped correctly
+Verify all the elements on page are clickable & accessible for all the users
+Verify website's other function are reflecting and working properly (ex- whats app button or any chat icon)
+Verify your page performance through Page speed insights or lighthouse
+"Verify LCP, CLS, FCP  - > Should score good as per benchmark"
+"If LCP, CLS , FCP scoring is not good then respective observations should be shared with developer"
+"Verify the handling of cookies and user sessions, especially for authentication-related functionalities."
+Verify H1 & H2 Tags are updated correctly as shared/requested by Marketing team
+Verify Meta title Has been updated correctly as planned.
+Verify Meta keyword & Description have been updated as planned.
+Verify if no keyword Or descriptions are updated then keyword and descriptions should be as per planned default values.
+Verify follow & index tags are updated as planned.
+"Verify ""nofollow noopener noreferrer"" tag has been updated, where any outbound links are updated ( and we don't want follow that page)"
+Verify Social Media Meta Tags are updated (specially for facebook & twitter)
+Verify how your link(s) are reflecting while sharing the page on social media
+Verify Meta Viewport Tag is updated
+"Verify if Language meta-tags is updated (only for regional language page, if informed by marketing team)"
+Verify for vulnerabilities such as SQL injection
+"Verify that sensitive information is handled securely, especially during data transmission. Encryption should be enabled if planned."
+"Verify network requests, console logs, and other debugging information."
